@@ -41,7 +41,7 @@ Versão 18.2.0 React <br>
 Versão 8.19.3 Node
 
 
-[Visite o projeto online] (https://fabiano2022.github.io/Focus-Timer-2.0/) 
+
 
 
 ## 🔖 Layout
