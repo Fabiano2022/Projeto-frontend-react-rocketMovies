@@ -37,7 +37,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Nesse projeto apresento a aplicação RockeMovies. No projeto fiz a parte de front-end da aplicação utilizando ReactJs. O objetivo da aplicação é organizar através de um cadastro os filmes que já assistimos. Nela vc pode se cadastrar pela página de Login, cadastrar e comentar filmes assistidos e sempre que vc assistir um novo filme, vc pode inseri-lo na apliacação. Incluive, dando uma nota. 
 
-
+Versão 18.2.0 React
+Versão 8.19.3 Node
 
 
 [Visite o projeto online] (https://fabiano2022.github.io/Focus-Timer-2.0/) 
