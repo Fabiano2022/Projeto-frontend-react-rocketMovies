@@ -38,6 +38,38 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Nesse projeto apresento a aplicação RockeMovies. O projeto foi feito fazendo a parte de front-end da aplicação utilizando ReactJs. O objetivo da aplicação é organizar através de um cadastro os filmes que já assistimos. Nela vc pode se cadastrar pela página de Login, cadastrar e comentar filmes assistidos e sempre que vc assistir um novo filme, vc pode inseri-lo na apliacação. Incluive, dando uma nota. 
 
 
+
+{
+  "name": "rocketmovies",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.10.1",
+    "react-router-dom": "^6.14.2",
+    "styled-components": "^6.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.37",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^4.0.0",
+    "eslint": "^8.38.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.3.4",
+    "vite": "^4.3.9"
+  }
+}
+
+
 [Visite o projeto online] (https://fabiano2022.github.io/Focus-Timer-2.0/) 
 
 
