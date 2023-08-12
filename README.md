@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto:
 
-Nesse projeto apresento a aplicação RockeMovies. O projeto foi feito fazendo a parte de front-end da aplicação utilizando ReactJs. O objetivo da aplicação é organizar através de um cadastro os filmes que já assistimos. Nela vc pode se cadastrar pela página de Login, cadastrar e comentar filmes assistidos e sempre que vc assistir um novo filme, vc pode inseri-lo na apliacação. Incluive, dando uma nota. 
+Nesse projeto apresento a aplicação RockeMovies. No projeto fiz a parte de front-end da aplicação utilizando ReactJs. O objetivo da aplicação é organizar através de um cadastro os filmes que já assistimos. Nela vc pode se cadastrar pela página de Login, cadastrar e comentar filmes assistidos e sempre que vc assistir um novo filme, vc pode inseri-lo na apliacação. Incluive, dando uma nota. 
 
 
 
